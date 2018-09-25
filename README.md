@@ -1,7 +1,5 @@
 # docs
-<h1>hello</h1>
-<p>wow</p>
-<ul>
-  <li>yo</li>
-  <li>wow</li>
-</ul>
+
+<h1>Welcome abroad!</h1>
+<p>We are using ClubHouse</p>
+<img src="./stories-and-epic-pages.gif" width="300" height="300"/>
