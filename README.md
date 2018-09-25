@@ -1,5 +1,5 @@
 <h1>Welcome abroad!</h1>
-<p>We are using ClubHouse</p>
+<a href="https://clubhouse.io/">We are using ClubHouse</a>
 <img src="./demo.stories-activity.gif"/>
 <h1>How to pick tasks ?</h1>
   <ul>
