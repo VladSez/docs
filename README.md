@@ -19,7 +19,7 @@
 </li>
 <h3>Writing commit messages and pull requests</h3> 
 <ul>
- <li>You should <em>not</em> write commit messages like "created Home component" or "implemented Login component" instead write "created Home" or "implemented Login". </li>
+ <li>You should <em>not</em> write commit messages like "created Home component" or "implemented Login component" instead write "created Home" or "implemented Login" </li>
   <li>Prefix boolean variables with: is, has, can. Example:<code>const isPerson = true;</code></li>
  <li>Write Pull request name from the task name</li>
  <li>Write answers to comments at Pull requests</li>
