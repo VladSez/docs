@@ -19,8 +19,8 @@
 ${project abbreviation} - ${task number at clubhouse}<br>
 For example: yo-101
 </li>
- <li>You should <strong>not</strong> write commit messages like "created Home component" or "implemented Login component" instead write "created Home" or "implemented Login". </li>
+ <li>You should <em>not</em> write commit messages like "created Home component" or "implemented Login component" instead write "created Home" or "implemented Login". </li>
  <li>Write Pull request name from the task name</li>
  <li>Write answers to comments at Pull requests</li>
- <li>After you are done click Squash and Merge <strong>then</strong> Delete Branch</li>
+ <li>After you are done click Squash and Merge <em>then</em> Delete Branch</li>
 </ul>
