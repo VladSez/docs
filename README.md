@@ -1,5 +1,5 @@
 <h1>Welcome abroad!</h1>
-<p><a href="https://clubhouse.io/">We are using ClubHouse</a></p>
+<p><a href="https://clubhouse.io/">We are using Clubhouse</a></p>
 <img src="./demo.stories-activity.gif"/>
 <h1>How to pick tasks ?</h1>
   <ul>
@@ -15,9 +15,9 @@
   </ul>
 <h1>Humansee labs git style</h1>
 <ul>
-<li>Branch name: 
-${project abbreviation} - ${task number at clubhouse}<br>
-For example: yo-101
+<li>Naming git branches: <br>
+Create a branch name, with the project abbreviation and ID number of the Clubhouse task.<br>
+  For example: <code>yo-101</code>
 </li>
  <li>You should <em>not</em> write commit messages like "created Home component" or "implemented Login component" instead write "created Home" or "implemented Login". </li>
  <li>Write Pull request name from the task name</li>
