@@ -10,16 +10,14 @@
     <li>One task for one developer</li>
     <li>Do not drag tasks to the previous column. Only manager can do this</li>
     <li>You should formulate tasks with verbs. For example: fix logo/create form</li>
-    <li>Break one big task into small ones</li>
-   
+    <li>Break one big task into small ones</li> 
   </ul>
 <h1>Humansee labs git style</h1>
 <h3>Naming git branches</h3> 
-<p>Create a branch name, with the project abbreviation and ID number of the Clubhouse task</p>
-  <p>For example: <code>yo-101</code></p>
+<p>Create a branch name, with the project abbreviation and ID number of the Clubhouse task.
+  Example: <code>yo-101</code></p>
 </li>
 <ul>
-
  <li>You should <em>not</em> write commit messages like "created Home component" or "implemented Login component" instead write "created Home" or "implemented Login". </li>
  <li>Write Pull request name from the task name</li>
  <li>Write answers to comments at Pull requests</li>
